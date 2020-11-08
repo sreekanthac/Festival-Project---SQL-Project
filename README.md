@@ -1,1 +1,1 @@
-# Festival-Project - SQL-Project
+# Festival-Database - SQL-Project
